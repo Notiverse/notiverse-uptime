@@ -4,7 +4,7 @@
     "url": "https://www.notiverse.app",
     "icon": "https://icons.duckduckgo.com/ip3/www.notiverse.app.ico",
     "slug": "notiverse",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 226,
     "timeMonth": 226,
     "timeYear": 226,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-13": 0
+    }
   },
   {
     "name": "Listmonk mailing list",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/listmonk.notiverse.app.ico",
     "slug": "listmonk-mailing-list",
     "status": "up",
-    "uptime": "97.93%",
-    "uptimeDay": "96.72%",
-    "uptimeWeek": "97.93%",
-    "uptimeMonth": "97.93%",
-    "uptimeYear": "97.93%",
+    "uptime": "98.75%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "98.75%",
+    "uptimeYear": "98.75%",
     "time": 2036,
-    "timeDay": 2801,
+    "timeDay": 3412,
     "timeWeek": 2036,
     "timeMonth": 2036,
     "timeYear": 2036,
     "dailyMinutesDown": {
-      "2024-09-13": 47
+      "2024-09-13": 33
     }
   }
 ]
