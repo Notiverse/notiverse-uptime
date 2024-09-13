@@ -22,19 +22,19 @@
     "url": "https://listmonk.notiverse.app",
     "icon": "https://icons.duckduckgo.com/ip3/listmonk.notiverse.app.ico",
     "slug": "listmonk-mailing-list",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2523,
-    "timeDay": 4449,
-    "timeWeek": 2523,
-    "timeMonth": 2523,
-    "timeYear": 2523,
+    "status": "up",
+    "uptime": "98.52%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "98.52%",
+    "time": 2241,
+    "timeDay": 3402,
+    "timeWeek": 2241,
+    "timeMonth": 2241,
+    "timeYear": 2241,
     "dailyMinutesDown": {
-      "2024-09-13": 0
+      "2024-09-13": 33
     }
   }
 ]
