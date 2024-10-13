@@ -22,7 +22,7 @@
     "url": "https://listmonk.notiverse.app",
     "icon": "https://icons.duckduckgo.com/ip3/listmonk.notiverse.app.ico",
     "slug": "listmonk-mailing-list",
-    "status": "up",
+    "status": "down",
     "uptime": "98.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.84%",
@@ -34,6 +34,7 @@
     "timeMonth": 1660,
     "timeYear": 1744,
     "dailyMinutesDown": {
+      "2024-10-13": 0,
       "2024-10-11": 139,
       "2024-10-10": 30,
       "2024-10-09": 116,
