@@ -4,19 +4,19 @@
     "url": "https://www.notiverse.app",
     "icon": "https://icons.duckduckgo.com/ip3/www.notiverse.app.ico",
     "slug": "notiverse",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1317,
-    "timeDay": 1813,
-    "timeWeek": 1965,
-    "timeMonth": 1684,
-    "timeYear": 1317,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 1299,
+    "timeDay": 1066,
+    "timeWeek": 1759,
+    "timeMonth": 1642,
+    "timeYear": 1299,
     "dailyMinutesDown": {
-      "2024-11-02": 0
+      "2024-11-02": 20
     }
   },
   {
