@@ -4,7 +4,7 @@
     "url": "https://www.notiverse.app",
     "icon": "https://icons.duckduckgo.com/ip3/www.notiverse.app.ico",
     "slug": "notiverse",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1965,
     "timeMonth": 1684,
     "timeYear": 1317,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-02": 0
+    }
   },
   {
     "name": "Listmonk mailing list",
