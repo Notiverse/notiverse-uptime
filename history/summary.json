@@ -6,15 +6,15 @@
     "slug": "notiverse",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "98.30%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 1592,
-    "timeDay": 1588,
+    "time": 1593,
+    "timeDay": 2322,
     "timeWeek": 1927,
-    "timeMonth": 1890,
-    "timeYear": 1644,
+    "timeMonth": 1891,
+    "timeYear": 1645,
     "dailyMinutesDown": {
       "2025-10-15": 25,
       "2025-09-01": 34,
@@ -36,14 +36,14 @@
     "slug": "listmonk-mailing-list",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "95.89%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.40%",
-    "time": 4511,
-    "timeDay": 532,
-    "timeWeek": 3600,
-    "timeMonth": 6820,
+    "time": 4504,
+    "timeDay": 392,
+    "timeWeek": 1163,
+    "timeMonth": 6414,
     "timeYear": 4886,
     "dailyMinutesDown": {
       "2025-10-15": 59,
@@ -129,8 +129,7 @@
       "2024-12-03": 70,
       "2024-12-02": 22,
       "2024-12-01": 33,
-      "2024-11-30": 25,
-      "2024-10-17": 32
+      "2024-11-30": 25
     }
   }
 ]
