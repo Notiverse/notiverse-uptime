@@ -4,7 +4,7 @@
     "url": "https://www.notiverse.app",
     "icon": "https://icons.duckduckgo.com/ip3/www.notiverse.app.ico",
     "slug": "notiverse",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
@@ -16,6 +16,7 @@
     "timeMonth": 1891,
     "timeYear": 1645,
     "dailyMinutesDown": {
+      "2025-10-17": 0,
       "2025-10-15": 25,
       "2025-09-01": 34,
       "2025-08-29": 38,
@@ -44,7 +45,7 @@
     "timeDay": 392,
     "timeWeek": 1163,
     "timeMonth": 6414,
-    "timeYear": 4886,
+    "timeYear": 4902,
     "dailyMinutesDown": {
       "2025-10-15": 59,
       "2025-10-02": 29,
