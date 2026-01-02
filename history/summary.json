@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1702,
-    "timeDay": 2400,
-    "timeWeek": 2271,
-    "timeMonth": 2021,
-    "timeYear": 1805,
+    "time": 1703,
+    "timeDay": 2111,
+    "timeWeek": 2252,
+    "timeMonth": 2019,
+    "timeYear": 1809,
     "dailyMinutesDown": {
       "2025-10-29": 18,
       "2025-10-20": 125,
@@ -38,17 +38,17 @@
     "slug": "listmonk-mailing-list",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "96.85%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "97.62%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "97.65%",
     "uptimeYear": "99.41%",
-    "time": 5068,
-    "timeDay": 352,
-    "timeWeek": 5562,
-    "timeMonth": 5770,
+    "time": 5049,
+    "timeDay": 350,
+    "timeWeek": 5546,
+    "timeMonth": 5677,
     "timeYear": 5612,
     "dailyMinutesDown": {
-      "2026-01-01": 45,
+      "2026-01-01": 31,
       "2025-12-30": 18,
       "2025-12-29": 16,
       "2025-12-28": 58,
@@ -119,7 +119,7 @@
       "2025-06-16": 21,
       "2025-06-11": 20,
       "2025-06-10": 51,
-      "2025-06-09": 27
+      "2025-06-09": 63
     }
   }
 ]
