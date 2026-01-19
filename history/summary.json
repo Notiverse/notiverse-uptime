@@ -36,13 +36,13 @@
     "url": "https://listmonk.notiverse.app",
     "icon": "https://icons.duckduckgo.com/ip3/listmonk.notiverse.app.ico",
     "slug": "listmonk-mailing-list",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "91.16%",
+    "uptimeDay": "91.15%",
     "uptimeWeek": "96.29%",
     "uptimeMonth": "97.85%",
-    "uptimeYear": "99.39%",
-    "time": 5600,
+    "uptimeYear": "99.40%",
+    "time": 5172,
     "timeDay": 9482,
     "timeWeek": 7162,
     "timeMonth": 6945,
@@ -116,8 +116,7 @@
       "2025-08-01": 25,
       "2025-07-31": 34,
       "2025-07-30": 36,
-      "2025-07-22": 17,
-      "2025-07-21": 35
+      "2025-07-22": 17
     }
   }
 ]
