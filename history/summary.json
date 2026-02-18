@@ -36,7 +36,7 @@
     "url": "https://listmonk.notiverse.app",
     "icon": "https://icons.duckduckgo.com/ip3/listmonk.notiverse.app.ico",
     "slug": "listmonk-mailing-list",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
     "uptimeDay": "78.48%",
     "uptimeWeek": "87.57%",
@@ -99,8 +99,7 @@
       "2025-12-13": 31,
       "2025-12-12": 21,
       "2025-12-11": 139,
-      "2025-12-10": 125,
-      "2025-12-09": 26
+      "2025-12-10": 125
     }
   }
 ]
